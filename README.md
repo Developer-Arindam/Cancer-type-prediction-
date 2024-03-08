@@ -3,4 +3,4 @@
    Conducted data preprocessing , feature engineering and implemented logistic regression in google colab.
    Evaluated model performance and achieved an accuracy of 98.2 %.
    Tools and Technologies : Google colab, Python ,Scikit-learn , Logistic Regression
-   The Dataset file used is also uploaded (cancer.xlx).
+   The Dataset file used is also uploaded (cancer.xlsx).
